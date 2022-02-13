@@ -1,0 +1,1 @@
+# Project Selenide     [![Build status](https://ci.appveyor.com/api/projects/status/837ff82chybobyou?svg=true)](https://ci.appveyor.com/project/Anna-Gorina/selenide)
